@@ -1,2 +1,3 @@
 Hello Git and GitHub
 SECOND LINE
+THIRD LINE
